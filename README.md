@@ -41,14 +41,6 @@
 | **Database Backend** | Minor | PostgreSQL as a database backend | ✅ |
 | **Browser Compatibility** | Minor | The Web App should be compatible with all major browsers | ✅ |
 
-- stuff i added:
-
-| Module | Description |Done |
-| --- | --- | --- |
-| **Real-Time Notifications** | Users can receive real-time notifications (game invites, new chat Messages...) | ✅ |
-| **AI Difficulty Levels** | Users can select the difficulty level of the AI | ✅ |
-| **Resumable Games** | Users can resume games and tournaments where they left off | ✅ |
-| **Games History** | Users can see All the games they played (local, online, tournament, AI) | ✅ |
 ## Setup
 1. Clone the repository
 ```bash
